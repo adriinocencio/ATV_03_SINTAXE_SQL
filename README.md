@@ -7,6 +7,8 @@ UPDATE alunos
 SET cidade = 'Sumaré';
 ```
 
+ou
+
 ```sql
 UPDATE alunos
 SET cidade = 'Sumaré'
