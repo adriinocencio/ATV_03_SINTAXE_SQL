@@ -1,6 +1,12 @@
 # ATV_03_SINTAXE_SQL
 
 ### Código SQL
+
+```sql
+UPDATE alunos
+SET cidade = 'Sumaré';
+```
+
 ```sql
 UPDATE alunos
 SET cidade = 'Sumaré'
